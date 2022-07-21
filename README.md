@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gezieljunior&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Jr Web Developer Front- End ( HTML | CSS | JS )
-- 👨‍💻 Olá, me chamo Geziel Junior, sou carioca, moro em Nova Iguaçu - RJ. Sou bacharel em Sistemas da Informação, apaixonado por tecnologia e buscando adquirir conhecimento todos os dias, para sempre executar meus projetos de forma ágil e efetiva, assim evoluindo cada vez mais profissionalmente.
+- 👨‍💻 Olá, me chamo Geziel Junior, sou carioca, moro em Nova Iguaçu - RJ. Sou bacharel em Sistemas da Informação, apaixonado por tecnologia e buscando adquirir conhecimento todos os dias, para sempre executar meus projetos de forma ágil e efetiva, assim evoluindo cada vez mais profissionalmente e podendo ajudar o máximo de pessoas possíveis com minhas aplicações.
 
 
 
