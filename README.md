@@ -1,66 +1,60 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GezielJunior/a951db78b6befb069c5ec2cb033645f0/raw/082072dc10180ce67acd072fe8c16a5b31bbc977/gitcard.svg"/>
-<h1 align="left">OLÁ <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Meu Nome é Geziel Junior</h1>
+<h2 align="left">OLÁ 👋! , Meu Nome é Geziel Junior!<br><br>🔥 Software Engineer | Backend <br> 👨‍💻 Olá, me chamo Geziel Junior, moro em Nova Iguaçu - RJ. Sou bacharel em Sistemas da Informação, apaixonado por tecnologia e buscando adquirir conhecimento todos os dias, para sempre executar meus projetos de forma ágil e efetiva, assim evoluindo cada vez mais profissionalmente e podendo ajudar o máximo de pessoas possíveis com minhas aplicações.</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gezieljunior&color=yellow" alt="Profile views" /> </p>
-
- 🔥 Software Engineer | Backend Jr.</br>
- 👨‍💻 Olá, me chamo Geziel Junior, sou carioca, moro em Nova Iguaçu - RJ. Sou bacharel em Sistemas da Informação, apaixonado por tecnologia e buscando adquirir conhecimento todos os dias, para sempre executar meus projetos de forma ágil e efetiva, assim evoluindo cada vez mais profissionalmente e podendo ajudar o máximo de pessoas possíveis com minhas aplicações
-
-
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-<!--![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;-->
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<!--![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<!--![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;-->
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-<!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;-->
-<br><br>
+###
 
-## ⚙️ &nbsp;GitHub Analytics
+<div align="center">
+  <a href="https://www.linkedin.com/in/gezieljunior/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=gezieljunior&show_icons=true&theme=vision-friendly-dark" alt="gezieljunior's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gezieljunior&layout=compact&theme=vision-friendly-dark" alt="gezieljunior's most languages"/>
-</p>
+###
 
+<div align="center">
+  <img height="200" src="https://cdn.prod.website-files.com/5dcc7f8c449e597be23356e0/6578e3a5dfba7eb6b0c223b3_javascript-for-software-engineers-blog-hero-image.webp"  />
+</div>
 
-<br><br>
-
-## Contact
-
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/gezieljunior/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gezieljunior-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/junii0r__" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gezieljunior-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
