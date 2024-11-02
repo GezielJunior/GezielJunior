@@ -51,10 +51,5 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://cdn.prod.website-files.com/5dcc7f8c449e597be23356e0/6578e3a5dfba7eb6b0c223b3_javascript-for-software-engineers-blog-hero-image.webp"  />
-</div>
 
 ###
