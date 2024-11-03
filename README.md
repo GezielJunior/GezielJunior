@@ -1,10 +1,8 @@
 <h2 align="left">OLÁ 👋! , Meu Nome é Geziel Junior!</h2>
-<br>
 <h3>🔥 Software Engineer | Backend </h3>
 <br>
 <p>👨‍💻 Olá, me chamo Geziel Junior, moro em Nova Iguaçu - RJ. Sou bacharel em Sistemas da Informação, apaixonado por tecnologia e buscando adquirir conhecimento todos os dias, para sempre executar meus projetos de forma ágil e efetiva, assim evoluindo cada vez mais profissionalmente e podendo ajudar o máximo de pessoas possíveis com minhas aplicações.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gezieljunior&color=yellow" alt="Profile views" /> </p>
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
