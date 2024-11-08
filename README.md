@@ -1,7 +1,8 @@
 <h2 align="left">OLÁ 👋! , Meu Nome é Geziel Junior!</h2>
 <h3>🔥 Software Engineer | Backend </h3>
 <br>
-<p>👨‍💻 Olá, me chamo Geziel Junior, moro em Nova Iguaçu - RJ. Sou bacharel em Sistemas da Informação, apaixonado por tecnologia e buscando adquirir conhecimento todos os dias, para sempre executar meus projetos de forma ágil e efetiva, assim evoluindo cada vez mais profissionalmente e podendo ajudar o máximo de pessoas possíveis com minhas aplicações.</p>
+<p>👨‍💻 Olá, me chamo Geziel Junior, moro em Nova Iguaçu - RJ. Sou bacharel em Sistemas da Informação, apaixonado por tecnologia e buscando adquirir conhecimento todos os dias, para sempre executar meus projetos de forma ágil e efetiva, assim evoluindo cada vez mais profissionalmente e podendo ajudar o máximo de pessoas possíveis com minhas aplicações.
+Atualmente, trabalho em projetos para clientes da América do Sul, África e Europa, onde sou responsável pela gestão de incidentes e desenvolvimento de melhorias nos microsserviços de cada projeto. Utilizo Groovy, o framework Micronaut e gRPC para otimizar a comunicação entre APIs e aplicativos móveis, assegurando alta performance e confiabilidade nas integrações. No frontend, trabalho com ZK Framework e Bootstrap, aplicando a arquitetura MVVM para proporcionar uma experiência mais reativa e modular. Minha atuação envolve ainda o desenvolvimento de APIs REST com Groovy e Micronaut. Em termos de banco de dados, utilizo PostgreSQL e MySQL para garantir a eficiência e integridade dos dados em cada solução.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gezieljunior&color=yellow" alt="Profile views" /> </p>
 
 ## 🛠 &nbsp;Tech Stack
